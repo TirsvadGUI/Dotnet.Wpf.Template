@@ -1,0 +1,1 @@
+# Dotnet.Wpf.Template
