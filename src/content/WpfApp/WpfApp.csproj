@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>TargetFrameworkVersion</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <!--#if (EnableNullable) -->
+    <Nullable>enable</Nullable>
+    <!--#endif -->
+    <!--#if (EnableImplicitUsings) -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!--#endif -->
+    <AssemblyName>WpfApp</AssemblyName>
+    <RootNamespace>WpfApp</RootNamespace>
+  </PropertyGroup>
+
+</Project>
