@@ -50,7 +50,7 @@ It incorporates best practices such as the MVVM pattern, dependency injection, a
 
 ## Quick start
 ### 1. Clone and open in Visual Studio 2022.  
-`git clone [repo-url]`
+`git clone https://github.com/TirsvadGUI/Dotnet.Wpf.Template.git`
 
 ## Project structure (suggested)
 Legend for levels and items:
